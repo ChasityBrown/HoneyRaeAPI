@@ -59,6 +59,18 @@
       "name": "Renaud Erbe",
       "address": "30 Westridge Pass",
       "email": "rerbe9@psu.edu"
+    },
+    {
+      "name": "Chasity Brown",
+      "address": "123 Main St.",
+      "email": "chasity@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Chasity Brown",
+      "address": "123 Main St.",
+      "email": "chasitybrown@gmail.com",
+      "id": 12
     }
   ],
   "employees": [
@@ -71,9 +83,6 @@
       "id": 2,
       "name": "Rose Schmitt",
       "specialty": "Printers"
-    },
-    {
-      "id": 3
     },
     {
       "name": "Chasity",
@@ -110,6 +119,14 @@
       "employeeId": 1,
       "dateCompleted": "",
       "id": 3
+    },
+    {
+      "description": "This is not an emergency ticket.",
+      "emergency": false,
+      "customerId": 11,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 4
     }
   ]
 }
